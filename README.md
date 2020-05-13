@@ -71,6 +71,9 @@ $ -e MYSQL_HOST = "192.168.1.10"              // 指定数据库地址
 
 ### Development 开发
 ----------------------------
+安装依赖：
+ yum install openldap-devel -y
+
 ```
    1. Clone code 克隆代码：
    $ git clone https://github.com/openspug/spug.git
